@@ -1,4 +1,4 @@
-# react-usestate-guide
+# React Usestate Guide
 
 > An interactive, dark-themed HTML learning guide for React's `useState` hook — built for beginners, with live demos, AI-powered code review, and a quiz.
 
